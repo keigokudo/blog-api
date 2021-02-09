@@ -23,5 +23,10 @@
     "prettier": "^2.2.1",
     "serverless": "^2.23.0",
     "serverless-offline": "^6.8.0"
+  },
+  "dependencies": {
+    "ajv": "^7.0.4",
+    "json-api-serializer": "^2.6.1",
+    "mongoose": "^5.11.15"
   }
 }
